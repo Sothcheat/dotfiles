@@ -1,0 +1,20 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-alt-l": "editor::Format",
+      "ctrl-shift-r": "editor::Rename",
+      "ctrl-d": "editor::DuplicateLineDown"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      // "shift shift": "file_finder::Toggle"
+      "ctrl-r": ["task::Spawn", { "task_name": "r/python" }],
+      "ctrl-t": "workspace::ToggleBottomDock",
+      "ctrl-b": "workspace::ToggleRightDock",
+      "ctrl-shift-t": "workspace::NewCenterTerminal"
+    }
+  }
+]

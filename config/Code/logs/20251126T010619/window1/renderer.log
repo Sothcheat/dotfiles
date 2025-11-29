@@ -1,0 +1,29 @@
+2025-11-26 01:06:20.887 [info] Started local extension host with pid 2263.
+2025-11-26 01:06:22.349 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-26 01:06:22.411 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-26 01:06:23.573 [warning] Failed to fetch chat participant registry Offline
+2025-11-26 01:06:23.686 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at Q6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64382)
+    at new cd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67762)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69200)
+    at cd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68977)
+    at d2.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:106862)
+    at Wf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Wf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106419)
+    at Session.emit (node:events:519:28)
+2025-11-26 01:06:23.780 [info] [perf] Render performance baseline is 30ms
+2025-11-26 01:06:27.756 [error] An unknown error occurred. Please consult the log for more details.

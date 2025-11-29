@@ -1,0 +1,19 @@
+2025-11-25 17:41:34.502 [info] Client: Pylance client (2025.10.1) started with python extension (2025.18.0)
+2025-11-25 17:41:34.815 [info] (47673): Server root directory: file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist
+2025-11-25 17:41:34.815 [info] (47673): Pylance language server 2025.10.1 (pyright version 1.1.407, commit 906e40aa) starting
+2025-11-25 17:41:34.828 [info] (47673): Starting service instance "<default>" for workspace ""
+2025-11-25 17:41:35.262 [info] (47673): Loading background bundle file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist/copilot-background.bundle.js into ...
+2025-11-25 17:41:35.310 [info] (47673): FG(<default>): Setting environmentName for service "<default>": "3.14.0 (global)"
+2025-11-25 17:41:35.310 [info] (47673): FG(<default>): Setting pythonPath for service "<default>": "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python"
+2025-11-25 17:41:35.310 [info] (47673): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-11-25 17:41:35.311 [info] (47673): FG(<default>): Auto-excluding **/node_modules
+2025-11-25 17:41:35.311 [info] (47673): FG(<default>): Auto-excluding **/__pycache__
+2025-11-25 17:41:35.311 [info] (47673): FG(<default>): Auto-excluding **/.*
+2025-11-25 17:41:35.348 [info] (47673): FG(<default>): Assuming Python version 3.14.0.final.0
+2025-11-25 17:41:35.419 [info] (47673): Settings have not changed. Skipping update.
+2025-11-25 17:41:35.421 [info] (47673): Starting Mcp server id:3653 ...
+2025-11-25 17:41:35.428 [error] (47673): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-11-25 17:41:35.428 [info] (47673): FG(<default>): No source files found.
+2025-11-25 17:41:35.692 [info] (47673): PQ(<default>): Priority queue background worker(2) root directory: file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist
+2025-11-25 17:41:35.693 [info] (47673): PQ(<default>): Priority queue background worker(2) started
+2025-11-25 17:41:35.849 [info] (47673): BG(<default>): Loaded external background bundle file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist/copilot-background.bundle.js. 

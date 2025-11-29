@@ -1,0 +1,73 @@
+{
+  // Editor appearance
+  "icon_theme": "Material Icon Theme",
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+
+  "project_panel": {
+    "dock": "right",
+    "entry_spacing": "standard"
+  },
+
+  "tabs": { "file_icons": true },
+
+  "inlay_hints": {
+    "show_other_hints": false,
+    "show_parameter_hints": false,
+    "show_type_hints": false,
+    "show_value_hints": true
+  },
+  "gutter": {
+    "line_numbers": true
+  },
+  "ui_font_family": "MesloLGS Nerd Font Propo",
+  "ui_font_size": 14,
+  "buffer_font_family": "MesloLGS Nerd Font Mono",
+  "buffer_font_size": 13.5,
+  "buffer_line_height": { "custom": 1.65 },
+  "buffer_font_features": { "calt": true },
+  "lsp_document_colors": "border",
+  "wrap_guides": [79],
+  "show_edit_predictions": false,
+
+  // Theme & color
+  "theme": {
+    "mode": "system",
+    "light": "Tokyo Night Light",
+    "dark": "Akane"
+  },
+
+  // editor behavior
+  "autosave": {
+    "after_delay": { "milliseconds": 500 }
+  },
+  "format_on_save": "on",
+  "restore_on_startup": "last_session",
+  "show_completions_on_input": true,
+
+  // git intergration
+  "git": {
+    "inline_blame": { "enabled": false }
+  },
+
+  // language-specification settings
+  "languages": {
+    "Python": {
+      "formatter": {
+        "external": {
+          "command": "black",
+          "arguments": ["-", "--skip-string-normalization"]
+        }
+      },
+      "format_on_save": "on"
+    }
+  },
+
+  // privacy & telemetry
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  }
+}

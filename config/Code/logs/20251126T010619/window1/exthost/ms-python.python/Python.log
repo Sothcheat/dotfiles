@@ -1,0 +1,5 @@
+2025-11-26 01:06:22.745 [info] Native locator: Refresh started
+2025-11-26 01:06:23.105 [info] Native locator: Refresh started
+2025-11-26 01:06:23.285 [info] Native locator: Refresh finished in 618 ms
+2025-11-26 01:06:23.287 [info] Python interpreter path: ~/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-26 01:06:25.446 [info] Starting Pylance language server.

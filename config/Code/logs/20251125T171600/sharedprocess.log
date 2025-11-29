@@ -1,0 +1,24 @@
+2025-11-25 17:17:33.388 [info] Getting Manifest... ms-python.python
+2025-11-25 17:17:33.570 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json","path":"/home/sothcheat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"}}
+2025-11-25 17:17:34.007 [info] Getting Manifest... ms-python.vscode-pylance
+2025-11-25 17:17:36.009 [info] Getting Manifest... ms-python.debugpy
+2025-11-25 17:17:36.267 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-11-25 17:17:36.623 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json","path":"/home/sothcheat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-25 17:17:36.623 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json","path":"/home/sothcheat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-25 17:17:36.623 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json","path":"/home/sothcheat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.2","date":"2025-11-19T16:56:50.023Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-11-25 17:17:45.440 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1281ms.
+2025-11-25 17:17:45.742 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 863ms.
+2025-11-25 17:17:45.991 [info] Extracted extension to file:///home/sothcheat/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64: ms-python.vscode-python-envs
+2025-11-25 17:17:46.002 [info] Renamed to /home/sothcheat/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-11-25 17:17:46.019 [info] Extracted extension to file:///home/sothcheat/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64: ms-python.debugpy
+2025-11-25 17:17:46.036 [info] Renamed to /home/sothcheat/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64
+2025-11-25 17:17:46.739 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 837ms.
+2025-11-25 17:17:47.591 [info] Extracted extension to file:///home/sothcheat/.vscode/extensions/ms-python.python-2025.18.0-linux-x64: ms-python.python
+2025-11-25 17:17:47.651 [info] Renamed to /home/sothcheat/.vscode/extensions/ms-python.python-2025.18.0-linux-x64
+2025-11-25 17:17:55.264 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 862ms.
+2025-11-25 17:17:57.921 [info] Extracted extension to file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1: ms-python.vscode-pylance
+2025-11-25 17:17:58.122 [info] Renamed to /home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1
+2025-11-25 17:17:58.146 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json
+2025-11-25 17:17:58.147 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json
+2025-11-25 17:17:58.147 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json
+2025-11-25 17:17:58.147 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/sothcheat/.vscode/extensions/extensions.json

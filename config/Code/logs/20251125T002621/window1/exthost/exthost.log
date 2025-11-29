@@ -1,0 +1,7 @@
+2025-11-25 00:26:23.770 [info] Extension host with pid 8011 started
+2025-11-25 00:26:23.833 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-25 00:26:23.947 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-25 00:26:23.975 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-25 00:26:24.040 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-25 00:26:24.045 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-25 00:26:24.049 [info] Extension host with pid 8011 exiting with code 0

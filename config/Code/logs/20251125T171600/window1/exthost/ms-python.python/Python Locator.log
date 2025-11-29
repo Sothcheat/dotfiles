@@ -1,0 +1,42 @@
+2025-11-25 17:17:59.745 [info] Starting Python Locator /home/sothcheat/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python-env-tools/bin/pet server
+2025-11-25 17:18:00.035 [info] Discovered env: /bin/python
+2025-11-25 17:18:00.053 [info] Discovered env: /usr/bin/python
+2025-11-25 17:18:00.055 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.056 [info] Discovered env: /home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-25 17:18:00.082 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.083 [info] Discovered env: /sbin/python
+2025-11-25 17:18:00.085 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.086 [info] Discovered env: /usr/sbin/python
+2025-11-25 17:18:00.100 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.205 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.205 [info] Discovered env: /sbin/python3
+2025-11-25 17:18:00.206 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.206 [info] Discovered env: /usr/sbin/python3
+2025-11-25 17:18:00.208 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.313 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.313 [info] Discovered env: /usr/sbin/python3.13
+2025-11-25 17:18:00.314 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.315 [info] Discovered env: /sbin/python3.13
+2025-11-25 17:18:00.315 [info] Locator Conda took 302.513499ms
+2025-11-25 17:18:00.315 [info] Locator Homebrew took 409.672µs
+2025-11-25 17:18:00.315 [info] Locator LinuxGlobal took 310.967953ms
+2025-11-25 17:18:00.315 [info] Locator PipEnv took 96.199µs
+2025-11-25 17:18:00.315 [info] Locator Pixi took 82.393µs
+2025-11-25 17:18:00.315 [info] Locator Poetry took 357.996µs
+2025-11-25 17:18:00.315 [info] Locator PyEnv took 2.541817ms
+2025-11-25 17:18:00.315 [info] Locator Venv took 100.506µs
+2025-11-25 17:18:00.315 [info] Locator VirtualEnv took 200.463µs
+2025-11-25 17:18:00.315 [info] Locator VirtualEnvWrapper took 263.8µs
+2025-11-25 17:18:00.315 [info] Locator GlobalVirtualEnvs took 473.43µs
+2025-11-25 17:18:00.315 [info] Locator Locators took 312.61673ms
+2025-11-25 17:18:00.315 [info] Locator Path took 573.261428ms
+2025-11-25 17:18:00.315 [info] Locator Workspaces took 5.04µs
+2025-11-25 17:18:00.316 [info] Refresh completed in 573ms
+2025-11-25 17:18:00.352 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:18:00.355 [info] Resolved Python Environment /home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-25 17:37:06.834 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:37:06.834 [info] Resolved Python Environment /home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-25 17:37:48.430 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:37:48.431 [info] Resolved Python Environment /home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-25 17:41:24.016 [info] Env ("/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python") in Path resolved as ResolvedPythonEnv { executable: "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", prefix: "/home/sothcheat/.local/share/mise/installs/python/3.14.0", version: "3.14.0.final.0", is64_bit: true, symlinks: Some(["/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3", "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python3.14"]) } and reported as Some(GlobalPaths)
+2025-11-25 17:41:24.016 [info] Resolved Python Environment /home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python

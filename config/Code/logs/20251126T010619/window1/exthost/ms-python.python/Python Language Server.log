@@ -1,0 +1,19 @@
+2025-11-26 01:06:23.877 [info] Client: Pylance client (2025.10.1) started with python extension (2025.18.0)
+2025-11-26 01:06:24.575 [info] (2663): Server root directory: file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist
+2025-11-26 01:06:24.576 [info] (2663): Pylance language server 2025.10.1 (pyright version 1.1.407, commit 906e40aa) starting
+2025-11-26 01:06:24.611 [info] (2663): Starting service instance "<default>" for workspace ""
+2025-11-26 01:06:25.425 [info] (2663): Loading background bundle file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist/copilot-background.bundle.js into ...
+2025-11-26 01:06:25.527 [info] (2663): FG(<default>): Setting environmentName for service "<default>": "3.14.0 (global)"
+2025-11-26 01:06:25.527 [info] (2663): FG(<default>): Setting pythonPath for service "<default>": "/home/sothcheat/.local/share/mise/installs/python/3.14.0/bin/python"
+2025-11-26 01:06:25.528 [info] (2663): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-11-26 01:06:25.529 [info] (2663): FG(<default>): Auto-excluding **/node_modules
+2025-11-26 01:06:25.529 [info] (2663): FG(<default>): Auto-excluding **/__pycache__
+2025-11-26 01:06:25.529 [info] (2663): FG(<default>): Auto-excluding **/.*
+2025-11-26 01:06:25.571 [info] (2663): FG(<default>): Assuming Python version 3.14.0.final.0
+2025-11-26 01:06:25.700 [info] (2663): Settings have not changed. Skipping update.
+2025-11-26 01:06:25.839 [info] (2663): Starting Mcp server id:3426 ...
+2025-11-26 01:06:26.084 [error] (2663): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-11-26 01:06:26.084 [info] (2663): FG(<default>): No source files found.
+2025-11-26 01:06:26.182 [info] (2663): PQ(<default>): Priority queue background worker(2) root directory: file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist
+2025-11-26 01:06:26.183 [info] (2663): PQ(<default>): Priority queue background worker(2) started
+2025-11-26 01:06:26.515 [info] (2663): BG(<default>): Loaded external background bundle file:///home/sothcheat/.vscode/extensions/ms-python.vscode-pylance-2025.10.1/dist/copilot-background.bundle.js. 

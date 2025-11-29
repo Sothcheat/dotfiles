@@ -1,0 +1,8 @@
+2025-11-26 01:06:23.517 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/enkia/tokyo-night/latest - error GET Offline
+2025-11-26 01:06:23.518 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/formulahendry/code-runner/latest - error GET Offline
+2025-11-26 01:06:23.518 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/debugpy/latest - error GET Offline
+2025-11-26 01:06:23.518 [error] #4: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Offline
+2025-11-26 01:06:23.518 [error] #5: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/vscode-pylance/latest - error GET Offline
+2025-11-26 01:06:23.519 [error] #6: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/vscode-python-envs/latest - error GET Offline
+2025-11-26 01:06:23.519 [error] #7: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2025-11-26 01:06:23.572 [error] #8: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline

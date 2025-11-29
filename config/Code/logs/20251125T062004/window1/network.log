@@ -1,0 +1,4 @@
+2025-11-25 06:20:08.407 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/enkia/tokyo-night/latest - error GET Offline
+2025-11-25 06:20:08.408 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/formulahendry/code-runner/latest - error GET Offline
+2025-11-25 06:20:08.409 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Offline
+2025-11-25 06:20:08.438 [error] #4: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
