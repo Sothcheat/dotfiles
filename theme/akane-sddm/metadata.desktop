@@ -1,9 +1,0 @@
-[SddmGreeterTheme]
-Name=Omarchy
-Description=Omarchy Linux Login Theme
-Author=sothcheat
-Screenshot=screenshot.png
-MainScript=Main.qml
-ConfigFile=theme.conf
-Type=sddm-theme
-Version=1.0
